@@ -1,0 +1,5 @@
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerialization\bin\Debug\BasicSerialization.dll
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerialization\bin\Debug\BasicSerialization.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerialization\obj\Debug\BasicSerialization.csprojResolveAssemblyReference.cache
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerialization\obj\Debug\BasicSerialization.dll
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerialization\obj\Debug\BasicSerialization.pdb

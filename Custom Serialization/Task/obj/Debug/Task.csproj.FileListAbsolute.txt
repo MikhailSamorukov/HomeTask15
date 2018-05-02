@@ -1,0 +1,12 @@
+C:\Users\Михаил\Desktop\CustomSerialization\Task\Task\bin\Debug\Task.dll.config
+C:\Users\Михаил\Desktop\CustomSerialization\Task\Task\bin\Debug\Task.dll
+C:\Users\Михаил\Desktop\CustomSerialization\Task\Task\bin\Debug\Task.pdb
+C:\Users\Михаил\Desktop\CustomSerialization\Task\Task\bin\Debug\EntityFramework.dll
+C:\Users\Михаил\Desktop\CustomSerialization\Task\Task\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Михаил\Desktop\CustomSerialization\Task\Task\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Михаил\Desktop\CustomSerialization\Task\Task\bin\Debug\EntityFramework.xml
+C:\Users\Михаил\Desktop\CustomSerialization\Task\Task\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Михаил\Desktop\CustomSerialization\Task\Task\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Михаил\Desktop\CustomSerialization\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\CustomSerialization\Task\Task\obj\Debug\Task.dll
+C:\Users\Михаил\Desktop\CustomSerialization\Task\Task\obj\Debug\Task.pdb

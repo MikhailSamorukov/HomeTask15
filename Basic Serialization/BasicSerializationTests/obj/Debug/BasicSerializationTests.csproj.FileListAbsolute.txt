@@ -1,0 +1,10 @@
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerializationTests\bin\Debug\BasicSerializationTests.dll
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerializationTests\bin\Debug\BasicSerializationTests.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerializationTests\bin\Debug\BasicSerialization.dll
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerializationTests\bin\Debug\nunit.framework.dll
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerializationTests\bin\Debug\BasicSerialization.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerializationTests\bin\Debug\nunit.framework.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerializationTests\bin\Debug\nunit.framework.xml
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerializationTests\obj\Debug\BasicSerializationTests.csprojResolveAssemblyReference.cache
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerializationTests\obj\Debug\BasicSerializationTests.dll
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask15\BasicSerializationTests\obj\Debug\BasicSerializationTests.pdb

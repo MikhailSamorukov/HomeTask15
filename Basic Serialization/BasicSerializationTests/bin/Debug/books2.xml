@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<catalog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2018-04-30" xmlns="http://library.by/catalog">
+  <book id="test">
+    <isbn>test</isbn>
+    <author>Mikhail</author>
+    <title>test</title>
+    <genre>test</genre>
+    <publisher>test</publisher>
+    <publish_date>2018-04-30</publish_date>
+    <description>test</description>
+    <registration_date>2018-04-30</registration_date>
+  </book>
+</catalog>
